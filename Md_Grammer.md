@@ -11,7 +11,7 @@ This is an 큰제목
 This is an 큰제목
 ================
 
-## 작은제목 : 문서 부제목
+### 작은제목 : 문서 부제목
 
 ```md
 This is a 작은제목
@@ -20,4 +20,23 @@ This is a 작은제목
 ```
 This is an 작은제목
 ------------------
+
+### 글머리 : 1~6까지 가능
+H1, H2까지는 작성후 흐린 언더바가 생김
+
+```md
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+```
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+####### This is a H7
 
